@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a8ab19fab9c70d4aa2f80290d370cbf, type: 3}
+  m_Name: wave1 8
+  m_EditorClassIdentifier: 
+  balls:
+  - {fileID: 7892929726609833190, guid: 8bfa6912abd48d14aa91ce0cb4e08d33, type: 3}
+  - {fileID: 9047877433269886345, guid: 0f3a5bb07cc107c46b3447ba084b32b5, type: 3}
+  nextWave: {fileID: 11400000, guid: 21782e90d2f92da4496cf48f7a8ba310, type: 2}
